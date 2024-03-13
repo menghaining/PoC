@@ -9,7 +9,7 @@ commit: 189b03f63bef4e2bfeba7003512860283ee27605(updated 3/8/2024)
 ## Tested on: Debian Linux, Mysql
 
 ## Exploit Description
-Suffering from CWE613-Insufficient Session Expiration, which allows attackers to use the logged-out admin session to do anything.
+Suffering from CWE613-Insufficient Session Expiration, which allows attackers to use the deleted admin session to do anything.
 ### PoC
 1. `admin` login
 2. `admin` create another admin named `sub-admin`
