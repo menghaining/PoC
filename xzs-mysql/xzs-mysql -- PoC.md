@@ -30,5 +30,3 @@ response:
 HTTP/1.1 200 OK
 {"code":1,"message":"成功","response":null}
 ```
-![[Pasted image 20240313105753.png]]
-![[Pasted image 20240313105803.png]]
