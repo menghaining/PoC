@@ -14,8 +14,7 @@ docker: https://hub.docker.com/layers/sanluan/publiccms/latest/images/sha256-967
 
 ## Exploit Description
 Suffering from CWE613-Insufficient Session Expiration. 
-When user change his password, system would let the user login again.
-However, when admin change user's password, system do not redirect to login page, which lead to the user can still operate until current session timeout.
+When the user changes his password, the system will let the user log in again. However, when the admin changes the user's password, the system does not redirect to the login page, which leads to the user still operating until the current session timeout.
 
 ### PoC
 1. `admin` login
