@@ -23,4 +23,4 @@ If the user is admin, even after a user's account is deleted, the user can still
 3. `admin` delete/disable `user`.
 4. `user` can still operate.
 
-PoC video: https://photos.onedrive.com/share/BE21C8626DE3094B!3238?cid=BE21C8626DE3094B&resId=BE21C8626DE3094B!3238&authkey=!AMIgAShnF6frXI4&ithint=video&e=8HwkzV
+PoC video: https://1drv.ms/v/s!AmTWEcd1YDpUjgtS6WNBlMRlkaM2?e=nBc3Hk
