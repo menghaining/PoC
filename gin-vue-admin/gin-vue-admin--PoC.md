@@ -2,7 +2,7 @@
 
 ## Date: 4/2/2024
 ## Vendor
-[flipped-aurora(https://github.com/flipped-aurora)
+[flipped-aurora](https://github.com/flipped-aurora)
 
 Homepage: https://github.com/flipped-aurora/gin-vue-admin
 
