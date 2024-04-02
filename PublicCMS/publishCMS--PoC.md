@@ -3,7 +3,9 @@
 ## Date: 4/2/2024
 ## Vendor
 [sanluan](https://github.com/sanluan)
+
 Homepage: https://github.com/sanluan/PublicCMS
+
 version: latest (published at May 30, 2023 at 2:26 pm)
 
 ## Tested on: Debian Linux, Mysql
