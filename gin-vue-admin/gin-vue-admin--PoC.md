@@ -1,6 +1,5 @@
 ## TYPE: Insufficient Session Expiration(CWE-613)
 
-## Date: 4/2/2024
 ## Vendor
 [flipped-aurora](https://github.com/flipped-aurora)
 
