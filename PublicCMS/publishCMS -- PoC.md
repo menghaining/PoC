@@ -18,3 +18,5 @@ However, when admin change user's password, system do not redirect to login page
 2. `user1` login
 3. `admin` change the password of  `user1`
 4. `user1` can still operate, like change his information
+
+(video)[https://1drv.ms/v/s!AmTWEcd1YDpUjgoJ8lkA8pN8zYEJ?e=gIlbGf]
