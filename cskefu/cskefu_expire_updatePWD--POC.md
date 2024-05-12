@@ -9,7 +9,7 @@
 ## Tested on: Debian Linux
 
 ## Exploit Description
-The user can still operate successfully after the admin changes/reset the user's password.
+The user can still operate successfully after **the admin changes/reset the user's password**.
 The system is affected by CWE613-Insufficient Session Expiration, which indicates that previous sessions or authentication tokens tied to the old password remain valid and can still be utilized.
 
 ### PoC: admin changes/resets user password, user can still operate.
