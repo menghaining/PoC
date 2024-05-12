@@ -4,7 +4,7 @@
 ## Basic Information
 + Vendor: [cskefu](https://github.com/cskefu)
 + Homepage: https://github.com/cskefu/cskefu
-+ **Affected Version**: v7.x
++ **Affected Version**: v7.x, v8.x
 
 ## Tested on: Debian Linux
 
@@ -12,9 +12,9 @@
 The user can still operate successfully after the admin changes/reset the user's password.
 The system is affected by CWE613-Insufficient Session Expiration, which indicates that previous sessions or authentication tokens tied to the old password remain valid and can still be utilized.
 
-### PoC
-**PoC video** [reference](https://1drv.ms/v/s!AmTWEcd1YDpUjg095kRTaxRVZaU8?e=jsHtoK)
-**Steps**:
+### PoC: admin changes/resets user password, user can still operate.
++ **PoC video** [reference](https://1drv.ms/v/s!AmTWEcd1YDpUjg095kRTaxRVZaU8?e=jsHtoK)
++ **Steps**:
 1. `admin` login, `user1` login.
 
 `user1` login:
