@@ -36,3 +36,5 @@ The system is affected by CWE613-Insufficient Session Expiration, which indicate
   + Since v8.x is not free for more than 2 users, we did code auditing and found it is the same as v7.x, which means this version also suffers from such a bug.
   + <img width="906" alt="image" src="https://github.com/menghaining/PoC/assets/32480426/9e393278-27a6-4235-aacc-575f51b3fa72">
   + https://github.com/cskefu/cskefu/blob/250e1d56a5c11cadd5017d2fe30e8f62afdf3980/contact-center/app/src/main/java/com/cskefu/cc/controller/api/ApiUserController.java#L317
+
+https://github.com/cskefu/cskefu/issues/1019
