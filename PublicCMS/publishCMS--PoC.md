@@ -6,7 +6,7 @@
 
 Homepage: https://github.com/sanluan/PublicCMS
 
-version: latest (published at May 30, 2023 at 2:26 pm)
+version: v4.x (published at May 30, 2023 at 2:26 pm)
 
 docker: https://hub.docker.com/layers/sanluan/publiccms/latest/images/sha256-9677a5a75f98d9c1802bb9d889bf160b587b528c5d071e88015f651cdaf523f8?context=explore
 
