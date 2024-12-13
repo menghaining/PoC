@@ -3,9 +3,7 @@
 ## Date: 12/12/2024
 
 ## Affected Version
-[Roller](https://github.com/apache/roller)
-
-Roller v6.1.2
+[Roller](https://github.com/apache/roller)  v6.1.2
 
 ## Tested on: Debian Linux, Mysql
 
